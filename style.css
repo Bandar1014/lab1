@@ -1,0 +1,47 @@
+*{
+    text-align: center;
+}
+
+
+fieldset{
+    text-align: center;
+    width: 40em;
+    height: 50em;
+    margin-left: 25em;
+    background-color: rgba(255, 255, 255, 0.37);
+}
+.header{
+    text-align: left;
+    margin-bottom: -10px;
+    background-color: rgba(2, 2, 2, 0.712);
+    color: white;
+}
+.e-phone{
+    text-align: left;
+}
+.educ{
+    text-align: left;
+}
+
+li{
+    text-align: left;
+} */
+
+.tech-skills{
+    text-align: left;
+}
+
+.soft-skills{
+    text-align: left;
+}
+
+.view{
+    text-align: center;
+    margin-bottom: 40px;
+}
+strong{
+    font-size: 30px;
+}
+.job{
+   font-size: 25px; 
+}
